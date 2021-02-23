@@ -11,11 +11,10 @@
 
 - 📫 How to reach me **rishikabansal74@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KmVMolEmnoYWcFs9rinm4pE__A1-eeyA/view?usp=sharing](https://drive.google.com/file/d/1KmVMolEmnoYWcFs9rinm4pE__A1-eeyA/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1KmVMolEmnoYWcFs9rinm4pE__A1-eeyA/view?usp=sharing)
 
 - ⚡ Fun fact **I love to read, write and listen music.**
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishika-bansal-55a9781ab/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="https://www.linkedin.com/in/rishika-bansal-55a9781ab/" height="40" width="40" /></a>
