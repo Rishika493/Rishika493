@@ -2,7 +2,7 @@
 <h3 align="center">A Tech Enthusiast currently enrolled in an undergraduate B.Tech program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishika493&label=Profile%20views&color=0e75b6&style=flat" alt="Rishika493" /> </p>
-<img align="right" alt="Coding" width="500" src="https://image.freepik.com/free-vector/mobile-software-optimization-ui-ux-development-smartphone-app-interface-designing-devops-woman-creating-application-modern-gadget_335657-196.jpg">
+<img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/mobile-software-optimization-ui-ux-development-smartphone-app-interface-designing-devops-woman-creating-application-modern-gadget_335657-196.jpg">
 
 
 - 🔭 I’m currently working on **my skills**
