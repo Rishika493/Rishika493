@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="200" src="<img align="right" alt="Coding" width="450" src="https://image.freepik.com/free-vector/girl-programmer-after-work-day-cartoon-flat_81522-3413.jpg">
+<img align="center" alt="Coding" width="300" src="https://t3.ftcdn.net/jpg/03/69/71/08/240_F_369710874_kk5feNC514J8bbN89O3c8kXV3tMCfh4G.jpg">
 
 <h1 align="center">Hi 👋, I'm Rishika Bansal</h1>
 <h3 align="center">A Tech Enthusiast currently enrolled in an undergraduate B.Tech program.</h3>
